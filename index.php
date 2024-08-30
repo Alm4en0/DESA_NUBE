@@ -55,7 +55,7 @@
 
 	<style>
 		.hola{
-			background-color: blue;
+			background-color: #480d8b;
 		}
  
 	</style>
@@ -76,7 +76,7 @@
 	<!-- Intro -->
 	<div class="container text-center">
 		<br> <br>
-		<h2 class="thin">HACIENDO CAMBIOS EN EL FROTEND</h2>
+		<h2 class="thin">HACIENDO CAMBIOS EN EL FRONTEND</h2>
 		<p class="text-muted">
 			The difference between involvement and commitment is like an eggs-and-ham breakfast:<br> 
 			the chicken was involved; the pig was committed.
